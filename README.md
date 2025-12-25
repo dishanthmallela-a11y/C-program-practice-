@@ -9,7 +9,6 @@ int main()
     if (a > b && a > c)
         printf("%d", a);
 
-    // condition for b is greatest
     else if (b > a && b > c)
         printf("%d", b);
 
