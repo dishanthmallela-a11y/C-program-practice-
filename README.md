@@ -1,4 +1,3 @@
-// C Program to find 
 // Largest of three numbers
 #include <stdio.h>
 
